@@ -1,0 +1,53 @@
+*,
+body, 
+.select-dropdown {
+  font-family: Rubik, sans-serif;
+  font-weight: 400;
+}
+
+.title {
+  padding-top: 1rem;
+}
+
+.input-field {
+  margin-bottom: 0 !important;
+}
+
+.score {
+  display: inline;
+  border: 2px solid #eceff1;
+  border-radius: 9999px;
+  padding: 4px 8px;
+  font-weight: 500;
+  background-color: white;
+}
+
+#standings .card .card-content {
+  padding: 0 16px;
+}
+
+#standings .table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+  width: 100%;
+}
+
+#standings .team {
+  display: flex;
+  align-items: center;
+}
+
+#standings .team .position {
+  width: 28px;
+}
+
+#standings .team .team-emblem {
+  width: 25px;
+  height: 25px;
+  margin-right: 8px;
+}
+
+#teams .team-emblem {
+  height: 60px;
+}
