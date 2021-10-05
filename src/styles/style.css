@@ -5,6 +5,10 @@ body,
   font-weight: 400;
 }
 
+nav .brand-logo {
+  font-size: 1.6rem !important;
+}
+
 .title {
   padding-top: 1rem;
 }
